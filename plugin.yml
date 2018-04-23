@@ -1,0 +1,10 @@
+name: Zodiac
+version: 1.0.3
+author: stormblackbird
+main: com.zodiac.Main
+depend: [BKCommonLib]
+commands:
+  zodiac:
+    description: All Zodiac admin commands.
+    usage: Use /zodiac
+    permission: zodiac.admin
